@@ -7,7 +7,7 @@ on:
 
 jobs:
   My-Deploy-job:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Hello World 찍기
